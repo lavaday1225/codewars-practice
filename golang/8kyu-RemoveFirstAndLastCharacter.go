@@ -1,3 +1,4 @@
+// yoyoyo
 package kata
 
 func RemoveChar(word string) string {
